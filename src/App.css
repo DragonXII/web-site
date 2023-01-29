@@ -1,0 +1,267 @@
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+div#root {
+  background: #f4f7f9;
+}
+
+button.navbar-toggler.sign-up {
+  background-color: #059e4b;
+  padding: 13px;
+  color: white;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+button.navbar-toggler.sign-in {
+  background-color: white;
+  padding: 13px;
+  color: #adb5bd;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+div#collapsibleNavbar {
+  margin-top: 5px;
+}
+
+.slick-list {
+  text-align: initial;
+}
+
+.slick-slide img {
+  display: block;
+  width: 100%;
+}
+
+.slick-track {
+  background-color: white;
+  margin: 22px 0;
+  border-radius: 10px;
+}
+
+.slick-slide {
+  padding: 40px;
+}
+
+.row.events {
+  background: #ebf1f4;
+}
+
+.mounth {
+  width: 100px;
+  background-color: #059e4b;
+  color: #fff;
+  top: 15px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 18px;
+  right: 15px;
+  position: absolute;
+  padding: 17px;
+}
+
+.backgroundImage {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.div-photo {
+  position: relative;
+  margin: 10px;
+}
+
+span.txt-bottom {
+  margin-left: 10px;
+}
+
+h3.event-header {
+  margin-top: 26px;
+}
+
+.div-bottom {
+  margin-top: 30px;
+}
+
+span.txt-bottom {
+  border: 1px solid #fff;
+  padding: 8px;
+  border-radius: 10px;
+}
+.news {
+  background-color: white;
+  position: relative;
+}
+
+.news-block {
+  padding: 20px;
+}
+.sidbar {
+  width: 90%;
+  margin-right: 40px;
+}
+.sidbar {
+  width: 90%;
+  margin-right: 40px;
+}
+
+span.news-txt {
+  position: absolute;
+  top: 33px;
+  width: 100px;
+  right: 25px;
+  color: white;
+  background: rgb(0 0 0 / 65%);
+  text-align: center;
+  padding: 6px;
+  border-radius: 10px;
+}
+.sidbar {
+  width: 90%;
+  margin-right: 40px;
+}
+
+span.news-txt {
+  position: absolute;
+  top: 33px;
+  width: 100px;
+  right: 25px;
+  color: white;
+  background: rgb(0 0 0 / 65%);
+  text-align: center;
+  padding: 6px;
+  border-radius: 10px;
+}
+
+span.icon-sidbar {
+  margin-left: 10px;
+}
+
+span.icon-sidbar i {
+  margin-left: 6px;
+}
+ul.navbar-nav button {
+  background: transparent;
+  border: none;
+  color: #6e6f70;
+  margin-top: 9px;
+}
+.news-page {
+  background-color: #ebf1f4;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.news-page .mounth-news {
+  display: inline-block;
+  width: 18%;
+  background-color: #059e4b;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+}
+
+.news-page h3.news-header {
+  display: inline-block;
+  width: 80%;
+  font-size: 25px;
+}
+.resaux-social {
+  margin-top: 22px;
+}
+
+.resaux-social i {
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+.resaux-social {
+  margin-top: 22px;
+}
+
+.resaux-social i {
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+.Footer {
+  width: 100%;
+  background-color: white;
+  padding: 0 12px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.Footer nav.navbar.navbar-expand-sm {
+  text-align: center;
+}
+
+.Footer ul.navbar-nav {
+  margin: 0 auto;
+}
+
+.Footer ul.navbar-nav a.nav-link {
+  color: #059e4b;
+}
+.news-letter {
+  background-color: #ebf1f4;
+  margin: 36px 0;
+  padding: 34px;
+  border-radius: 10px;
+}
+
+.div-submit {
+  background-color: white;
+  border-radius: 10px;
+  height: 75px;
+}
+
+.div-submit .btn-submit {
+  float: left;
+  background-color: #059e4b;
+  color: white;
+  border: none;
+  padding: 0 42px;
+  border-radius: 10px;
+  height: 72px;
+}
+p.txt-submit {
+  float: right;
+  margin-top: 20px;
+  margin-right: 23px;
+}
+.navbar-nav button.nav-item.nav-link {
+  background-color: transparent;
+  border: none;
+}
+.div-beginner {
+  background-color: #ebf1f4;
+  color: #adadad;
+  padding: 15px;
+  margin: 10px 0;
+}
+
+.div-beginner i {
+  margin: 0 5px;
+}
+
+.div-beginner button {
+  border: none;
+  background-color: transparent;
+  color: #059e4b;
+  opacity: 1;
+  float: left;
+}
+@media (min-width: 1400px) {
+  .container-xxl,
+  .container-xl,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container {
+    max-width: 1500px;
+  }
+}
